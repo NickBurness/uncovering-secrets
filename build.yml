@@ -1,0 +1,8 @@
+fake: true
+real: false
+secret:
+  build:
+    - myusername
+    - plaintextpassword
+    - 3454gfhsBFgfscCBdst/d/tr/%4546GFHiNhNiLiIpQws
+  why: experiment
