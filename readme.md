@@ -4,6 +4,6 @@ Multiple files with fake but realistic credentials
 
 Test with git scanners
 
-USERNAME="myusername"  
-PASSWORD="plaintextpassword"  
+USERNAME="myusername1"  
+PASSWORD="plaintextpassword1"  
 HASH"="3454gfhsBFgfscCBdst/d/tr/%4546GFHiNhNiLiIpQws"  
